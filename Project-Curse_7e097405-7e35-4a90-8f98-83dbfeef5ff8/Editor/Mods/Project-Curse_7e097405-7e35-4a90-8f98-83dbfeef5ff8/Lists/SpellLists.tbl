@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3f5063e7-e02b-4849-a503-9ba01dc6e2e6">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="739dcd01-86b3-4207-8682-e3106c0ec04b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cursebearer Level 1 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_BladeWard;Target_ViciousMockery" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c5d2f2c9-e07f-42fe-b7f4-86d428a5b1dc" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cursebearer Level 4 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_TrueStrike" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b9c63860-d34c-4e6b-b679-c1d9fa3275ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cursebearer Level 4 Spells" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Zone_Fear;Target_Enthrall;Projectile_ScorchingRay;Target_Shatter;Shout_ArmorOfAgathys" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="44de4a52-b72d-43f6-ae8a-c2f9e8fd5222" />
+        <field name="Name" type="NameTableFieldDefinition" value="Lycan Level 1 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_HematicTouch;Target_CurseStrike_Attack_Lycan" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f04843f7-30e4-4fbe-9b6a-7213ba3133d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Lycan Level 2 Spells" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Bite_Lycan;Target_HuntersMark;Shout_ActionSurge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="df813330-53da-4471-b6f8-b972e4ee68bd" />
+        <field name="Name" type="NameTableFieldDefinition" value="Lycan Level 3 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Smite_Searing;Target_DisarmingAttack_Lycan" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0ea17a34-cb3a-4e4c-8bce-27d5f5745182" />
+        <field name="Name" type="NameTableFieldDefinition" value="Curse of the Lycan Level 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_CurseShape_Cursebearer" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d59e40b9-6591-4285-82ca-079a925a099d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Curse of the Lycan Level 5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fa40e03d-e618-4ea4-b3ac-e8e26791334d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Stricken Level 1 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_ChillTouch;Target_CurseStrike_Attack_Stricken" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf171e52-6448-4f67-b315-7850610caf08" />
+        <field name="Name" type="NameTableFieldDefinition" value="Stricken Level 2 Spells" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Hex;Target_HuntersMark;Target_Command_Halt;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="52a53fb8-3abb-41b6-98b3-ad2c9570906d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Stricken Level 3 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_ShadowBlade_Class;Target_EldritchBlast" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="030a8d2a-a769-4d9f-995e-6fea9ac9f55f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Curse of the Soulstricken Level 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_CurseShape_CursebearerStricken;Target_ShadowStep" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e4f44ae2-39b9-45c0-95b2-e20cff40b677" />
+        <field name="Name" type="NameTableFieldDefinition" value="Toad Level 1 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_ToadTouch;Target_CurseStrike_Attack_Toad" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d07763f1-b05f-416b-a328-793c152b554c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Toad Level 2 Spells" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_PoisonSpray;Target_HuntersMark;Projectile_PoisonSpit" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="46d68ff7-ed42-4991-840e-a6a94ef69c00" />
+        <field name="Name" type="NameTableFieldDefinition" value="Toad Level 3 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_Toxic_Blade;Zone_BreathWeapon_Poison" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0b2826b9-dd1f-4801-96d9-54343c225755" />
+        <field name="Name" type="NameTableFieldDefinition" value="Curse of the Toad Level 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_CurseShape_CursebearerToad;Target_MistyStep" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="40d803f0-013d-4881-a55f-4f1e4c7dc63e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Bloodflame Level 1 Cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_BloodflameTouch;Target_CurseStrike_Attack_Bloodflame" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fc545229-bb88-4e86-8a46-36c1d537f639" />
+        <field name="Name" type="NameTableFieldDefinition" value="Bloodflame Level 2 Spells" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_BurningHands;Target_HuntersMark;Zone_BloodPool" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7f74b54a-b0c4-4ece-b029-ea6e571c0d20" />
+        <field name="Name" type="NameTableFieldDefinition" value="Bloodflame level 3 cantrips" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Smite_SearingBleed;Target_BloodStep" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1d4026d5-711b-4921-a43c-c0e08f03a897" />
+        <field name="Name" type="NameTableFieldDefinition" value="Bloodflame level 5 spells" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4a112519-4616-42f7-a7f1-b6411c8ef96f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Bloodflame level 9 spells" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Zone_WallOfFire" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

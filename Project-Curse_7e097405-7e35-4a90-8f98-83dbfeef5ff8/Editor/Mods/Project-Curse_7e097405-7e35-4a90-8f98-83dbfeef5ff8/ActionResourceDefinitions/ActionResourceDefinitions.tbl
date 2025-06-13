@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="1f196a87-8d84-424d-badc-a3d11c5b8d23">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="BloodBoon" />
+        <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="ShortRest" />
+        <field name="UUID" type="IdTableFieldDefinition" value="57e3cb8b-522d-4604-8b3c-8f9842a20ba3" />
+        <field name="ShowOnActionResourcePanel" type="BoolTableFieldDefinition" value="True" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h07426961g52c9g4df9g558ag524388fa2580" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3c8c9841ge0c8gb586gce7eg6773c596d7d5" version="1" />
+        <field name="Error" type="TranslatedStringTableFieldDefinition" handle="h3910b7a3g528bgeeeegd174ga40fa8a5e6e8" version="1" />
+        <field name="MaxValue" type="IntegerTableFieldDefinition" value="6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c0aec5dd-70f1-45ec-a9b9-8fb4eca7ed1e" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="CurseShape" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h39f0b0c6gfed4g2d08g1d00g7fbee80dddb1" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf615df94ga920g689bg9c65g80280b2b8057" version="1" />
+        <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
+        <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="ShortRest" />
+        <field name="ShowOnActionResourcePanel" type="BoolTableFieldDefinition" value="True" />
+        <field name="Error" type="TranslatedStringTableFieldDefinition" handle="h48864943g5a54g5fd9g4683gbea7ae185cc3" version="2" />
+        <field name="MaxValue" type="IntegerTableFieldDefinition" value="3" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

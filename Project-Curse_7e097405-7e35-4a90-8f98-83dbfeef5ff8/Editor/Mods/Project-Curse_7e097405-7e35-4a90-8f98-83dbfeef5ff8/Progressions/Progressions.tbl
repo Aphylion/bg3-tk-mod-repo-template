@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e8263e4a-2500-45bb-9542-6e53cda18bf8" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="BloodBoon;UnlockedSpellSlotLevel1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(BloodBoon,2,0);Proficiency(SimpleWeapons);ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(MartialWeapons)" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(739dcd01-86b3-4207-8682-e3106c0ec04b,2,0)" />
+        <field name="SubClasses" type="GuidObjectListTableFieldDefinition" value="77927519-1428-4f50-b371-b1e1da9dd041;d4d454b0-f33d-4f0a-bf90-8db2642950af;980b4673-7f12-42d9-933b-db9bbf69ee9f;a5b4e32a-fe99-41b9-9784-1a9000294996" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fdc6f32e-4c83-4506-b209-0cb6139c5c70" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="Level" type="ByteTableFieldDefinition" value="2" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="CurseEmpowerment;SavageAttacker" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,2,1);ActionResource(BloodBoon,1,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e4111d59-9ad6-4235-bc49-e1f6ba251932" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="DarkOnesOwnLuck;UnlockedSpellSlotLevel2" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4bdf7351-d099-4c5a-b6c9-b82c23559273" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="Level" type="ByteTableFieldDefinition" value="4" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="True" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedSpellSlotLevel3" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(b9c63860-d34c-4e6b-b679-c1d9fa3275ff,3,0)AddSpells(c5d2f2c9-e07f-42fe-b7f4-86d428a5b1dc)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7e1c7883-0e75-415d-9c3c-6b329ad02849" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ExtraAttack" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,1,1);ActionResource(BloodBoon,1,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_14" />
+        <field name="UUID" type="IdTableFieldDefinition" value="41c3e477-6811-4e1b-8e11-8199b471644e" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="Level" type="ByteTableFieldDefinition" value="6" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="HexbladesCurse" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,3)" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="c5d2f2c9-e07f-42fe-b7f4-86d428a5b1dc,1,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0ad15892-7909-4ac8-afc7-7436b98b7b45" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="Level" type="ByteTableFieldDefinition" value="7" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedSpellSlotLevel4;MirrorImage" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,4);ActionResource(CurseShape,2,0);ActionResource(SpellSlot,1,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8d157955-a09c-4f59-b63c-6ecbc42bfbbc" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="Level" type="ByteTableFieldDefinition" value="8" />
+        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3fea3c22-8735-49e9-9a34-b991acdf05ff" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Tough" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,5)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cf4648b9-fec0-4267-b82f-3cb376d61545" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="Level" type="ByteTableFieldDefinition" value="10" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,5);ActionResource(CurseShape,1,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8f12d2e4-a3b0-453c-abdd-18da8f8b58d6" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="Level" type="ByteTableFieldDefinition" value="11" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedSpellSlotlevel6;BattleMagic" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,6);ActionResource(BloodBoon,2,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cc4aadc9-ff45-4362-9ec9-b1964bf8c460" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="35341b6d-6628-494e-894f-0b79886319a8" />
+        <field name="FSName" type="StringTableFieldDefinition" value="CurseBearer" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="Level" type="ByteTableFieldDefinition" value="12" />
+        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e3be34b3-7372-4ea0-beea-9549201e43c8" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(44de4a52-b72d-43f6-ae8a-c2f9e8fd5222,CursebearerLycanCantrips,,,AlwaysPrepared)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5e2bb6be-a677-41ae-b545-ab0274edc279" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="2" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(f04843f7-30e4-4fbe-9b6a-7213ba3133d1)" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Passive_Primal_Hunger,LycanFrenzyUnlock" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="22e27048-56f5-4352-b893-4412fc1b3dee" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan " />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(CurseShape,1,0)" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(df813330-53da-4471-b6f8-b972e4ee68bd,1,0,,,,AlwaysPrepared)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e9c85d14-4441-4c9b-941e-bd60580fdd02" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="4" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(0ea17a34-cb3a-4e4c-8bce-27d5f5745182)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_41" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3a95d2a8-bfb1-4480-99c6-f91db31a6cfe" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Rage" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_42" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e8c8535e-680b-4f7b-ac8d-bd270f353905" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="6" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_43" />
+        <field name="UUID" type="IdTableFieldDefinition" value="59fecb01-805b-4fe9-8e43-3326bd3aacc5" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="7" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="TavernBrawler" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_44" />
+        <field name="UUID" type="IdTableFieldDefinition" value="720eaf85-c144-4040-93bc-a89c3e2b0658" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="8" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_45" />
+        <field name="UUID" type="IdTableFieldDefinition" value="baea1e16-affa-4ca8-a35b-4efec1cdbe75" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Haste" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_46" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6da6ef3b-39e0-45a2-b64f-afcfefde6dd8" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="10" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_47" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1971d5d0-dad4-498a-840b-74a2ad63b3aa" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="11" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_48" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dc83b0f3-0b27-469b-9df0-9297aeb65a02" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c5363cd9-df45-438b-80de-ed173f104f89" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Lycan" />
+        <field name="Level" type="ByteTableFieldDefinition" value="12" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_20" />
+        <field name="UUID" type="IdTableFieldDefinition" value="70ceae42-4a4b-4b92-ae3e-3fff40ecd8f2" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(fa40e03d-e618-4ea4-b3ac-e8e26791334d,CursebearerStrickenCantrips,,,AlwaysPrepared)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_16" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0b5f2258-a656-45b7-ae7b-548bfe5323b3" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="Level" type="ByteTableFieldDefinition" value="2" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(cf171e52-6448-4f67-b315-7850610caf08)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ff154cb1-e030-4d55-ad97-c2772a1acca3" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(CurseShape,1,0)" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(cf171e52-6448-4f67-b315-7850610caf08,2,0,,,,AlwaysPrepared)" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7eef09d3-5866-4050-85a0-0321c8e62114" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="Level" type="ByteTableFieldDefinition" value="4" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(030a8d2a-a769-4d9f-995e-6fea9ac9f55f)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_33" />
+        <field name="UUID" type="IdTableFieldDefinition" value="04a58711-1354-4f8a-972f-aa3308dd59d7" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="EntropicWard" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(d59e40b9-6591-4285-82ca-079a925a099d)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_34" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a124138c-a878-479c-8163-dec147c7e883" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_35" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba194df2-ed60-44ad-b869-1fea0aeaf3bc" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="7" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ChillingStrikes" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_36" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d13c7979-2897-472c-b233-a718a07d4353" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_37" />
+        <field name="UUID" type="IdTableFieldDefinition" value="387f7ce7-7e0d-44a6-9883-897131c36eac" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="GreaterIvisibility" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_38" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e0cf33a6-6ee4-480f-b191-c03fced8fab8" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="10" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_39" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a4d69107-c5db-4312-ba31-17eae9da97b9" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="11" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ArcaneRecovery" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_40" />
+        <field name="UUID" type="IdTableFieldDefinition" value="edad5218-e963-4c27-8632-65d0454ccea6" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Soulstricken" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="12" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_21" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f784d77b-7194-42cd-92a4-8039b039b0d8" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(e4f44ae2-39b9-45c0-95b2-e20cff40b677,CursebearerToadSpells,,,AlwaysPrepared)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_23" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fbaf357e-7421-47ed-9d4d-0b3ae42f63f1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="35dd46ae-ca55-41e7-b1cf-930c74149922" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(CurseShape,1,0)" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(0b2826b9-dd1f-4801-96d9-54343c225755,CursebearerToadShape)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_24" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2bff69bb-e940-4aa0-a2f7-5e6a8822dac3" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_25" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2954abbf-22b1-423a-942e-a03e4e2e45cd" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="StinkingCloud" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_26" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d4aa5fbe-24ae-44ce-91ae-184fd2c17ecd" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_27" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a86f604b-efd3-4ddb-af22-a140485f4d5e" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="7" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="NatureWard" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_28" />
+        <field name="UUID" type="IdTableFieldDefinition" value="48e3b499-8689-4868-987a-c90fa9502fa5" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="80975fea-1aa9-4796-978b-0f6dc857da81" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="InsectPlague" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_30" />
+        <field name="UUID" type="IdTableFieldDefinition" value="984b44cf-e8d5-462b-abe6-00f8390f606d" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="10" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_31" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ac67f835-d4ae-494e-96b2-78a1222bfa83" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="11" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="PoisonResistance" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_32" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bf687760-8308-4af9-8215-afcafb7735e1" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Curse of the Toad" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="12" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_22" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8d1d6366-0ee8-4528-b0b4-ef3454069bd2" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_49" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4342eb95-2a7a-4414-bfc9-4cfeff7f69df" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="2" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_50" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2a5ca912-1e7f-432a-a3dd-e7673308eb2c" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_51" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a343da41-49de-4f77-90a0-0b378399f839" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="4" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_52" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eb2d98c6-cebc-461a-90aa-46fb2add598e" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_53" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ffa500a9-e409-425c-8266-bf913deb557b" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="6" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_54" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c480babd-37b0-4668-b7b9-eed1a77284b4" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="7" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_55" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4eeac887-bbee-4737-8db8-d98458b7101d" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="8" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_56" />
+        <field name="UUID" type="IdTableFieldDefinition" value="30267055-f0f5-4036-8e9c-bb362117661c" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_57" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a71470fc-0c64-4c58-993b-4fa45608a910" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="10" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_58" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d7a9ab99-88fe-4031-a0ab-8525fd229c27" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="11" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_59" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2590558e-4231-4b6a-b839-6a55e890866d" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15" />
+        <field name="FSName" type="StringTableFieldDefinition" value=" Curse of the Bloodflame" />
+        <field name="Level" type="ByteTableFieldDefinition" value="12" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

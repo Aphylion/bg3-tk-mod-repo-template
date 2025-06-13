@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="45b75f76-ef62-45a3-876b-93b80767e9e6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Passive_Primal_Hunger" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5b563106gb189g0134g5716g0d61ff0d7b50" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2d931de6gdf96g256agc29bg61c161f75f6b" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IncreaseMaxHP(Level*2)" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnAttack" enumeration_type_name="StatsFunctorContext" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="685e61cd-c09d-4d4b-816b-089c3e9a479a" />
+        <field name="Name" type="NameTableFieldDefinition" value="LycanFrenzyUnlock" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7108f585gfd61g25feg85d5gfbf0b78b9e41" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6ed6e5a9g8bc0g4400g8d61g733adabef84b" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Lycan_Frenzy);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bacaeeaf-88b9-4728-847a-c8d1098b1924" />
+        <field name="Name" type="NameTableFieldDefinition" value="CurseEmpowerment" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6f134975gac4dg948ag2648gf733fa09e42b" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc382de96g1315g0e54g8762g2ebd06f87f3c" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="(context.HasContextFlag(StatsFunctorContext.OnCast) and CurseEmpoweredCheck() and HasUseCosts('ActionPoint', true) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased()) or (context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and StatusId('EXTRA_ATTACK_Q'));" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(context.HasContextFlag(StatsFunctorContext.OnCast)):ApplyStatus(SELF,CURSE_EMPOWERMENT_Q,100,1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(CURSE_EMPOWERMENT_Q,100,1);IF(context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and not HasHigherPriorityCurseEmpowermentQueued('CURSE_EMPOWERMENT_Q') and not HasAnyCurseEmpowerment()):ApplyStatus(CURSE_EMPOWERMENT, 100, 1)" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCast;OnStatusRemoved;OnStatusApplied" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ExtraAttack" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

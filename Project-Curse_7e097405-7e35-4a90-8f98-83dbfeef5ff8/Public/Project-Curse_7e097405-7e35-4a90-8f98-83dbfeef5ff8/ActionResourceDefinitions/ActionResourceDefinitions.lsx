@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h3c8c9841ge0c8gb586gce7eg6773c596d7d5" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h07426961g52c9g4df9g558ag524388fa2580" version="1"/>
+                    <attribute id="Error" type="TranslatedString" handle="h3910b7a3g528bgeeeegd174ga40fa8a5e6e8" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="6"/>
+                    <attribute id="Name" type="FixedString" value="BloodBoon"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="57e3cb8b-522d-4604-8b3c-8f9842a20ba3"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hf615df94ga920g689bg9c65g80280b2b8057" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h39f0b0c6gfed4g2d08g1d00g7fbee80dddb1" version="1"/>
+                    <attribute id="Error" type="TranslatedString" handle="h48864943g5a54g5fd9g4683gbea7ae185cc3" version="2"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="3"/>
+                    <attribute id="Name" type="FixedString" value="CurseShape"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="c0aec5dd-70f1-45ec-a9b9-8fb4eca7ed1e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

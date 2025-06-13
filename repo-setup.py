@@ -13,9 +13,9 @@ from pathlib import Path
     CREATE_NON_PROJECT_FILES_FOLDER: Creates a directory for toolkit related files like .blend, documents, etc. to store with mod
 """
 REPO_DIR: str = "."
-GAME_DATA_ROOT: str = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Baldurs Gate 3\\Data"
-PATH_TO_JUNCTION_EXE: str = "junction.exe"
-MOD_NAME_FULL: str = "YourModNameHere_857aee99-5f79-fd6e-bf15-8c41e6863b1b"
+GAME_DATA_ROOT: str = "T:\\SteamLibrary\\steamapps\common\\Baldurs Gate 3\\Data\\"
+PATH_TO_JUNCTION_EXE: str = "C:\\Users\\kiera\\Documents\\Junction\\junction.exe"
+MOD_NAME_FULL: str = "Project-Curse_7e097405-7e35-4a90-8f98-83dbfeef5ff8"
 CREATE_NON_PROJECT_FILES_FOLDER: bool = True
 
 

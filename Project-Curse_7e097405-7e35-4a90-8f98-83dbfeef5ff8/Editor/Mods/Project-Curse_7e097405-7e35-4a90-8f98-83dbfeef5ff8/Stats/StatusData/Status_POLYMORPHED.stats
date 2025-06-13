@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="ee4c30a6-9728-40e1-9722-b8a1ec68599e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="57bc40d6-85b1-4e03-880e-d9d3429ec607" />
+        <field name="Name" type="NameTableFieldDefinition" value="CURSEFORM_LYCAN_ACTIVE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he710a5f0g7322g1e44g8379gc592dc0a68c9" version="2" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="f49227a8-c24d-4ca4-899c-b12f05293003" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Polymorph_BeastShape;SG_DropForNonMutingDialog;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_DireWolf" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,CURSEFORM_LYCAN_ACTIVE,100,-1)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(CURSEFORM_LYCAN_ACTIVE)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="VoicebarkBlock();BlockSpellCast();UnlockSpell(Shout_CurseShape_Dismiss);" />
+        <field name="Rules" type="GuidObjectTableFieldDefinition" value="fd81bf92-9d6a-4209-b30e-204bf46b5d7d" />
+        <field name="StackId" type="StringTableFieldDefinition" value="CURSEFORM" />
+        <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(CURSEFORM_LYCAN_ACTIVE,100,-1)" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="f515b011-9b9d-462c-85e1-a79bc9055962" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="aba39a27-016c-4f7f-8803-8128f16006f0" />
+        <field name="Name" type="NameTableFieldDefinition" value="CURSEFORM_STRICKEN_ACTIVE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha4143951g0a55g7e77g94d4gd4b6946722d2" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Badger" />
+        <field name="StackId" type="StringTableFieldDefinition" value="CURSEFORM" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="VoicebarkBlock();BlockSpellCast();UnlockSpell(Shout_CurseShape_Dismiss_Stricken);" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,CURSEFORM_STRICKEN_ACTIVE,100,-1)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(CURSEFORM_STRICKEN_ACTIVE)" />
+        <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(CURSEFORM_STRICKEN_ACTIVE,100,-1)" />
+        <field name="Rules" type="GuidObjectTableFieldDefinition" value="fd81bf92-9d6a-4209-b30e-204bf46b5d7d" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Polymorph_BeastShape;SG_DropForNonMutingDialog;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="f515b011-9b9d-462c-85e1-a79bc9055962" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="818dd40c-02bb-4b1d-9aad-9dcd10ea3ff4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d55085b-b425-4e2a-b2d3-8480b50116b1" />
+        <field name="Name" type="NameTableFieldDefinition" value=" CURSEFORM_TOAD_ACTIVE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf4af49d7gb34fgb95fg79e6g7966414edb22" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Badger" />
+        <field name="StackId" type="StringTableFieldDefinition" value="CURSEFORM" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="VoicebarkBlock();BlockSpellCast();UnlockSpell(Shout_CurseShape_Dismiss_Toad);ScaleMultiplier(1.33);" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,CURSEFORM_TOAD_ACTIVE,100,-1)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(CURSEFORM_TOAD_ACTIVE)" />
+        <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(CURSEFORM_TOAD_ACTIVE,100,-1)" />
+        <field name="Rules" type="GuidObjectTableFieldDefinition" value="fd81bf92-9d6a-4209-b30e-204bf46b5d7d" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Polymorph_BeastShape;SG_DropForNonMutingDialog;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="f515b011-9b9d-462c-85e1-a79bc9055962" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="33999b91-a19b-4115-b781-c4540113e394" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8885281a-da5d-42a8-a92d-c7ee98d790a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="CURSEFORM_BLOODFLAME" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he7b3c27cgb630gd2ecgfae4g1b2cf30f07cd" version="1" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="54966fa1-45ed-4a5a-9ecb-b177a191fa6c" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Polymorph_BeastShape;SG_DropForNonMutingDialog;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_DireWolf" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,CURSEFORM_BLOODFLAME_ACTIVE,100,-1)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(CURSEFORM_BLOODFLAME_ACTIVE)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="VoicebarkBlock();BlockSpellCast();UnlockSpell(Shout_CurseShape_Dismiss_Bloodflame);" />
+        <field name="Rules" type="GuidObjectTableFieldDefinition" value="fd81bf92-9d6a-4209-b30e-204bf46b5d7d" />
+        <field name="StackId" type="StringTableFieldDefinition" value="CURSEFORM" />
+        <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(CURSEFORM_BLOODFLAME_ACTIVE,100,-1)" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="f515b011-9b9d-462c-85e1-a79bc9055962" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

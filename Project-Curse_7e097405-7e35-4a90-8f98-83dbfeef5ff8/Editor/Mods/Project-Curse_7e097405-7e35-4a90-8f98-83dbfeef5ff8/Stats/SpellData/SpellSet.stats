@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="68e50044-f0bd-499d-94ad-7aa52f7abe18">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7eaec5cb-e2bc-4315-af83-0062abf809f5" />
+        <field name="Name" type="NameTableFieldDefinition" value="CurseForm_Lycan" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Target_Claws_Werewolf" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7eaec5cb-e2bc-4315-af83-0062abf809f5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1d480ec3-8a6c-4282-85fa-1cf61fddbdc4" />
+        <field name="Name" type="NameTableFieldDefinition" value="PlayerMindFlayerActions_substat_0" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Target_Multiattack_Werewolf" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7eaec5cb-e2bc-4315-af83-0062abf809f5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3984cd95-3d6d-4007-bd61-f748774ee330" />
+        <field name="Name" type="NameTableFieldDefinition" value="PlayerMindFlayerActions_substat_2" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Throw_Throw" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7eaec5cb-e2bc-4315-af83-0062abf809f5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4f6cfdd8-1056-460b-9c0b-629a8a3cf6fc" />
+        <field name="Name" type="NameTableFieldDefinition" value="CurseForm_Lycan_substat_0" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Target_InfectiousBite_Wolf" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="45660210-c523-4b05-8992-f07b73f2b30f" />
+        <field name="Name" type="NameTableFieldDefinition" value="CurseForm_Spectre" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Target_SoulDevour_Specter" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="45660210-c523-4b05-8992-f07b73f2b30f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c0de48ef-24df-4f5f-a8b2-b057125bbd43" />
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0_substat_1" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Target_SoulPluck_Specter" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="45660210-c523-4b05-8992-f07b73f2b30f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e25056ce-70d4-4d86-8be8-961883f5f715" />
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0_substat_0" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Target_Multiattack_Werewolf" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="45660210-c523-4b05-8992-f07b73f2b30f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="73f704fc-70ad-4f96-ac5f-ae910b46e3b6" />
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0_substat_2" />
+        <field name="Spells" type="StatReferenceTableFieldDefinition" value="Target_InfectiousBite_Wolf" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

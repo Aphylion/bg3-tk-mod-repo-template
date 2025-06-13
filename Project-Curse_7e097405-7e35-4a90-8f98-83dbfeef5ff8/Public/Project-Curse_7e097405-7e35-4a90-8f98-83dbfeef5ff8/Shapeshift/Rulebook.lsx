@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="Rulebook">
+        <node id="root">
+            <children>
+                <node id="Rule">
+                    <attribute id="ApplySpellsFromTemplate" type="bool" value="true"/>
+                    <attribute id="ApplyTagsFromTemplate" type="bool" value="true"/>
+                    <attribute id="RuleName" type="LSString" value="LycanCurse_Test"/>
+                    <attribute id="UUID" type="guid" value="0f28e7fd-a614-409a-9241-a81d620a26fb"/>
+                    <attribute id="UnarmedAbilityFromTemplate" type="bool" value="true"/>
+                    <attribute id="UseTemplateEquipmentSet" type="bool" value="true"/>
+                    <attribute id="WildShapeHotBar" type="bool" value="false"/>
+                    <children>
+                        <node id="TemporaryHp">
+                            <attribute id="type" type="uint8" value="1"/>
+                            <attribute id="value" type="int32" value="16"/>
+                        </node>
+                        <node id="Weight">
+                            <attribute id="type" type="uint8" value="0"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="Rule">
+                    <attribute id="ApplySpellsFromTemplate" type="bool" value="true"/>
+                    <attribute id="ApplyTagsFromTemplate" type="bool" value="true"/>
+                    <attribute id="RuleName" type="LSString" value="StrickenCurse_Test"/>
+                    <attribute id="UUID" type="guid" value="94aeb9a4-3726-4a83-96ba-a5f62881dd86"/>
+                    <attribute id="UnarmedAbilityFromTemplate" type="bool" value="true"/>
+                    <attribute id="UseTemplateEquipmentSet" type="bool" value="true"/>
+                    <children>
+                        <node id="TemporaryHp">
+                            <attribute id="type" type="uint8" value="1"/>
+                            <attribute id="value" type="int32" value="12"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

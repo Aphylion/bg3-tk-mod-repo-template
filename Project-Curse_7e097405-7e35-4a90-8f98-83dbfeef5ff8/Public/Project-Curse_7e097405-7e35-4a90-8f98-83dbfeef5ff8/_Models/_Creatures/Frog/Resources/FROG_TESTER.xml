@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings source="($SOURCE)\Public\_Models\_Creatures\Frog\Resources\FROG_TESTER.fbx">
+  <SceneSettings>
+    <UseMikkTSpace>true</UseMikkTSpace>
+    <OptimizeMesh>true</OptimizeMesh>
+    <HighPrecisionUV>false</HighPrecisionUV>
+    <MeshOrderPreset>Default</MeshOrderPreset>
+    <UseBlendShapes>false</UseBlendShapes>
+    <GenerateLODMaterials>true</GenerateLODMaterials>
+    <LOD>
+      <CanFade>false</CanFade>
+      <FadeDistance>3.40282347E+38</FadeDistance>
+      <HasCustomLOD>false</HasCustomLOD>
+      <Levels />
+    </LOD>
+    <VertexColors />
+    <UVMaps>
+      <Node name="FROG_Familiar_A_Eyes_Mesh_LOD3">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Tongue_Mesh_LOD3">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Mesh_LOD3">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Eyes_Mesh_LOD2">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Tongue_Mesh_LOD2">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Mesh_LOD2">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Eyes_Mesh_LOD1">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Tongue_Mesh_LOD1">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Mesh_LOD1">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Eyes_Mesh">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Tongue_Mesh">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+      <Node name="FROG_Familiar_A_Mesh">
+        <UV name="DiffuseUV">true</UV>
+      </Node>
+    </UVMaps>
+  </SceneSettings>
+</Settings>

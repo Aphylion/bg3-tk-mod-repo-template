@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e2a8d59b-0e34-4a7c-bf5f-db7a2bb34cde">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="28dc27f5-ef02-4a7f-b2d3-39ea48eed74c" />
+        <field name="Name" type="NameTableFieldDefinition" value="CURSEFORM_ACTIVE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfa1e7714gba73ga55cg5f30g305a02dec7c2" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="CURSEFORM_ACTIVE" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="95dbbf4e-a5e1-4d3e-afa9-b5a8074af57f" />
+        <field name="Name" type="NameTableFieldDefinition" value="STATUS_CURSEBEARER_PRIMAL_HUNGER" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc902e402g4051g0606g54b3g5a3629d52a37" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1927703-0624-4a9d-b9e4-a9f7175eaa50" />
+        <field name="Name" type="NameTableFieldDefinition" value="STATUS_HEAL_SELF_ON_KILL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfbdeb517g20e4gced1ge539gb72e30c74d7e" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="273b2e72-9e2f-4f6c-a826-9d88d667a19f" />
+        <field name="Name" type="NameTableFieldDefinition" value="HEMATIC_TOUCH" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h365dd61bg2a0fg3939g30d1g3bb770caf438" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3d13c751g2234g7a96g3a43g2bd811c22127" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="tileHematicTouch" />
+        <field name="StackId" type="StringTableFieldDefinition" value="HEMATIC_TOUCH" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="BlockRegainHP(Undead;Living);IF(Tagged('LIVING', context.Source)):Disadvantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="66c9f691-22c0-477a-a135-15bb9a336cb3" />
+        <field name="Name" type="NameTableFieldDefinition" value="TOAD_TOUCH" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h98382a71g0012ga0begfccagd68c8002b190" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="tileToadTouch" />
+        <field name="StackId" type="StringTableFieldDefinition" value="TOAD_TOUCH" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="BlockRegainHP(Living;Undead);IF(Tagged('LIVING', context.Source)):Disadvantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hfdb5c87ag2766g0185gd186geae9553ad6d1" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="85472c18-8726-4c80-805d-8b3eae913370" />
+        <field name="Name" type="NameTableFieldDefinition" value="STRICKEN_TOUCH" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd5716e9cg6296gecffgba88g523e6ab87f82" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="tileToadTouch" />
+        <field name="StackId" type="StringTableFieldDefinition" value="TOAD_TOUCH" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="BlockRegainHP(Living;Undead);IF(Tagged('LIVING', context.Source)):Disadvantage(AttackRoll);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he09dda0dg7479gb6f9g6ce9g735594106c23" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d37f415-7f6f-4902-99e5-569c9e399ca8" />
+        <field name="Name" type="NameTableFieldDefinition" value="CURSE_EMPOWERMENT" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd9c42277g8770g899dg93dfgf395e41fb214" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he3af12a7gd71dgfe5fg9139g6624cf464576" version="2" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpellVariant(CurseEmpowermentCheck(),ModifyUseCosts(Replace,ActionPoint,0,0,ActionPoint),ModifyIconGlow(),ModifyTooltipDescription());" />
+        <field name="StackId" type="StringTableFieldDefinition" value="CURSE_EMPOWERMENT" />
+        <field name="StackPriority" type="IntegerTableFieldDefinition" value="20" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="CurseEmpowermentSpellCheck() and HasUseCosts('ActionPoint',false,context.Target) and not IsOffHandAttack()" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnSpellCast" enumeration_type_name="StatusEvent" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisablePortraitIndicator;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="DynamicAnimationTag" type="GuidObjectTableFieldDefinition" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="57bd9dba-865b-4a29-a35d-daaaa5f48ca0" />
+        <field name="Name" type="NameTableFieldDefinition" value="CURSE_EMPOWERMENT_Q" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb4e42228g7e33g37c1g065ega677e1248f68" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="CURSE_EMPOWERMENT" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="not HasHigherPriorityExtraAttackQueued('EXTRA_ATTACK_Q') and not HasAnyExtraAttack()" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnStatusRemoved" enumeration_type_name="StatusEvent" version="1" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(RemoveCause(StatusRemoveCause.Condition)):ApplyStatus(CURSE_EMPOWERMENT,100,1)" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="EndTurn" enumeration_type_name="TickType" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisablePortraitIndicator;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StackPriority" type="IntegerTableFieldDefinition" value="10" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

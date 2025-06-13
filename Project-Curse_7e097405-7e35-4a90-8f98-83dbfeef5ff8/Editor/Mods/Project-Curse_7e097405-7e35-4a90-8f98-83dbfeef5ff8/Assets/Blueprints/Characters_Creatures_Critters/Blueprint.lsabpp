@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blueprint id="0f4483f6-1914-49af-83b1-a45304c13caa" entry="fd1070de-72dc-4d18-8d17-25a1595e542f" model_id="f06ea22c-3d9e-be4a-9795-8521f54455a6" version="1.0.0.5" parent_path="Editor\Mods\Shared\Assets\Blueprints\Characters_Creatures.lsabp">
+  <cached_poses />
+</blueprint>

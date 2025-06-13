@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="The Choice"/>
+                    <attribute id="Passives" type="LSString" value="BrutalCritical,AgonizingBlast"/>
+                    <attribute id="UUID" type="guid" value="990e67ac-a75b-47a6-82f7-2d1fed506206"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

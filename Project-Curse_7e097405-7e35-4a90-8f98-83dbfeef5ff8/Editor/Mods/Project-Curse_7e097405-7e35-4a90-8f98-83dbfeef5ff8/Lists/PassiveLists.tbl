@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="11fa382c-a1d2-45ba-913c-b13062365ce8">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="990e67ac-a75b-47a6-82f7-2d1fed506206" />
+        <field name="Name" type="NameTableFieldDefinition" value="The Choice" />
+        <field name="Passives" type="StringTableFieldDefinition" value="BrutalCritical,AgonizingBlast" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

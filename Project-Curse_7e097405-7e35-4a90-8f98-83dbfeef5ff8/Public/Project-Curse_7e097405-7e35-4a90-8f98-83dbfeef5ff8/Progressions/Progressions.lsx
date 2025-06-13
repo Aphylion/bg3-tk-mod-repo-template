@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodBoon,2,0);Proficiency(SimpleWeapons);ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(MartialWeapons)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BloodBoon;UnlockedSpellSlotLevel1"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(739dcd01-86b3-4207-8682-e3106c0ec04b,2,0)"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="e8263e4a-2500-45bb-9542-6e53cda18bf8"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="77927519-1428-4f50-b371-b1e1da9dd041"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d4d454b0-f33d-4f0a-bf90-8db2642950af"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="980b4673-7f12-42d9-933b-db9bbf69ee9f"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="a5b4e32a-fe99-41b9-9784-1a9000294996"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ActionResource(BloodBoon,1,0)"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="CurseEmpowerment;SavageAttacker"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="fdc6f32e-4c83-4506-b209-0cb6139c5c70"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DarkOnesOwnLuck;UnlockedSpellSlotLevel2"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="e4111d59-9ad6-4235-bc49-e1f6ba251932"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b9c63860-d34c-4e6b-b679-c1d9fa3275ff,3,0)AddSpells(c5d2f2c9-e07f-42fe-b7f4-86d428a5b1dc)"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="4bdf7351-d099-4c5a-b6c9-b82c23559273"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,1,1);ActionResource(BloodBoon,1,0)"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="7e1c7883-0e75-415d-9c3c-6b329ad02849"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="HexbladesCurse"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="c5d2f2c9-e07f-42fe-b7f4-86d428a5b1dc,1,0)"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="41c3e477-6811-4e1b-8e11-8199b471644e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(CurseShape,2,0);ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;MirrorImage"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="0ad15892-7909-4ac8-afc7-7436b98b7b45"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="8d157955-a09c-4f59-b63c-6ecbc42bfbbc"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tough"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="3fea3c22-8735-49e9-9a34-b991acdf05ff"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(CurseShape,1,0)"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="cf4648b9-fec0-4267-b82f-3cb376d61545"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6);ActionResource(BloodBoon,2,0)"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotlevel6;BattleMagic"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="8f12d2e4-a3b0-453c-abdd-18da8f8b58d6"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="CurseBearer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="UUID" type="guid" value="cc4aadc9-ff45-4362-9ec9-b1964bf8c460"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(44de4a52-b72d-43f6-ae8a-c2f9e8fd5222,CursebearerLycanCantrips,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="e3be34b3-7372-4ea0-beea-9549201e43c8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Primal_Hunger,LycanFrenzyUnlock"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f04843f7-30e4-4fbe-9b6a-7213ba3133d1)"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="5e2bb6be-a677-41ae-b545-ab0274edc279"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CurseShape,1,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan "/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(df813330-53da-4471-b6f8-b972e4ee68bd,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="22e27048-56f5-4352-b893-4412fc1b3dee"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(0ea17a34-cb3a-4e4c-8bce-27d5f5745182)"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="e9c85d14-4441-4c9b-941e-bd60580fdd02"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Rage"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="3a95d2a8-bfb1-4480-99c6-f91db31a6cfe"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="e8c8535e-680b-4f7b-ac8d-bd270f353905"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value="TavernBrawler"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="59fecb01-805b-4fe9-8e43-3326bd3aacc5"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="720eaf85-c144-4040-93bc-a89c3e2b0658"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Haste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="baea1e16-affa-4ca8-a35b-4efec1cdbe75"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="6da6ef3b-39e0-45a2-b64f-afcfefde6dd8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="1971d5d0-dad4-498a-840b-74a2ad63b3aa"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Lycan"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="UUID" type="guid" value="dc83b0f3-0b27-469b-9df0-9297aeb65a02"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(fa40e03d-e618-4ea4-b3ac-e8e26791334d,CursebearerStrickenCantrips,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="70ceae42-4a4b-4b92-ae3e-3fff40ecd8f2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(cf171e52-6448-4f67-b315-7850610caf08)"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="0b5f2258-a656-45b7-ae7b-548bfe5323b3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CurseShape,1,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(cf171e52-6448-4f67-b315-7850610caf08,2,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="ff154cb1-e030-4d55-ad97-c2772a1acca3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(030a8d2a-a769-4d9f-995e-6fea9ac9f55f)"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="7eef09d3-5866-4050-85a0-0321c8e62114"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="PassivesAdded" type="LSString" value="EntropicWard"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d59e40b9-6591-4285-82ca-079a925a099d)"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="04a58711-1354-4f8a-972f-aa3308dd59d7"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="a124138c-a878-479c-8163-dec147c7e883"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ChillingStrikes"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="ba194df2-ed60-44ad-b869-1fea0aeaf3bc"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="d13c7979-2897-472c-b233-a718a07d4353"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="PassivesAdded" type="LSString" value="GreaterIvisibility"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="387f7ce7-7e0d-44a6-9883-897131c36eac"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="e0cf33a6-6ee4-480f-b191-c03fced8fab8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneRecovery"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="a4d69107-c5db-4312-ba31-17eae9da97b9"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Soulstricken"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="UUID" type="guid" value="edad5218-e963-4c27-8632-65d0454ccea6"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e4f44ae2-39b9-45c0-95b2-e20cff40b677,CursebearerToadSpells,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="f784d77b-7194-42cd-92a4-8039b039b0d8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="fbaf357e-7421-47ed-9d4d-0b3ae42f63f1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CurseShape,1,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(0b2826b9-dd1f-4801-96d9-54343c225755,CursebearerToadShape)"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="35dd46ae-ca55-41e7-b1cf-930c74149922"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="2bff69bb-e940-4aa0-a2f7-5e6a8822dac3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="PassivesAdded" type="LSString" value="StinkingCloud"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="2954abbf-22b1-423a-942e-a03e4e2e45cd"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="d4aa5fbe-24ae-44ce-91ae-184fd2c17ecd"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="PassivesAdded" type="LSString" value="NatureWard"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="a86f604b-efd3-4ddb-af22-a140485f4d5e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="48e3b499-8689-4868-987a-c90fa9502fa5"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="PassivesAdded" type="LSString" value="InsectPlague"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="80975fea-1aa9-4796-978b-0f6dc857da81"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="984b44cf-e8d5-462b-abe6-00f8390f606d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="PassivesAdded" type="LSString" value="PoisonResistance"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="ac67f835-d4ae-494e-96b2-78a1222bfa83"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="Curse of the Toad"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="UUID" type="guid" value="bf687760-8308-4af9-8215-afcafb7735e1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="8d1d6366-0ee8-4528-b0b4-ef3454069bd2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="4342eb95-2a7a-4414-bfc9-4cfeff7f69df"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="2a5ca912-1e7f-432a-a3dd-e7673308eb2c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="a343da41-49de-4f77-90a0-0b378399f839"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="eb2d98c6-cebc-461a-90aa-46fb2add598e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="ffa500a9-e409-425c-8266-bf913deb557b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="c480babd-37b0-4668-b7b9-eed1a77284b4"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="4eeac887-bbee-4737-8db8-d98458b7101d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="30267055-f0f5-4036-8e9c-bb362117661c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="a71470fc-0c64-4c58-993b-4fa45608a910"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="d7a9ab99-88fe-4031-a0ab-8525fd229c27"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value=" Curse of the Bloodflame"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="UUID" type="guid" value="2590558e-4231-4b6a-b839-6a55e890866d"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

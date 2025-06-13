@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="12"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Barbarian"/>
+                    <attribute id="Description" type="TranslatedString" handle="hfce02a31g4aedgfda4g015dge80670726bed" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="habbe9230geb8cg9f29ge3b0g75f2d57dc6ff" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="7"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="CurseBearer"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="35341b6d-6628-494e-894f-0b79886319a8"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="3"/>
+                    <attribute id="UUID" type="guid" value="f5205e85-969d-4fa7-a0e2-4ba67b622a79"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="hfa6c6df9ge642g5a87gd4c4g511fc5b5ae89" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4ac16c1cgad76g69b0g5519g54a21eae7a30" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="CurseOfTheLycan"/>
+                    <attribute id="ParentGuid" type="guid" value="f5205e85-969d-4fa7-a0e2-4ba67b622a79"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="c5363cd9-df45-438b-80de-ed173f104f89"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h60d91552g1c4dg404cgf7f3g23be31cb6681" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="3"/>
+                    <attribute id="UUID" type="guid" value="77927519-1428-4f50-b371-b1e1da9dd041"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h894c3a90g788dg0148g2fa5g9f80626161b9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he1cf6fc5g835fg052dg07fcge9ef72790529" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="CurseOfTheSoulstricken"/>
+                    <attribute id="ParentGuid" type="guid" value="f5205e85-969d-4fa7-a0e2-4ba67b622a79"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="0891fbb4-0a36-4c72-a845-7dd1c1464b10"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="hf3daeabcg60bfgd70fg5787g761c3faee424" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="3"/>
+                    <attribute id="UUID" type="guid" value="d4d454b0-f33d-4f0a-bf90-8db2642950af"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h1f0558a4gba6ag29edg397cg60ea4ff1d09a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8b3bdf7ag1c33g4b12g86fbg5a343b5e1f5a" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="CurseOfTheToad"/>
+                    <attribute id="ParentGuid" type="guid" value="f5205e85-969d-4fa7-a0e2-4ba67b622a79"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="7cf071dc-7306-4af4-91b8-5f1ff3e0288b"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h15dc20f8g7705gd865g6b54gf826fd172afd" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="3"/>
+                    <attribute id="UUID" type="guid" value="a5b4e32a-fe99-41b9-9784-1a9000294996"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="ha2b56fabga4b5gf11agfc37gce27dbefb5bd" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdc144c61g22e6g908fge289g075f1f5a7730" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="CurseOfTheBloodflame"/>
+                    <attribute id="ParentGuid" type="guid" value="f5205e85-969d-4fa7-a0e2-4ba67b622a79"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="b79d143b-4ea7-4da4-aa23-8c34449a6a15"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h32ca984dg97ddgd802g096bg65783257e8f3" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="3"/>
+                    <attribute id="UUID" type="guid" value="980b4673-7f12-42d9-933b-db9bbf69ee9f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

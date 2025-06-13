@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<graph id="f55853f0-6c5d-4a4b-966a-3f9528b9b38a" can_be_deleted="false" type="FunctionGraph" name="BASE_ActionBodyBlending">
+  <nodes>
+    <node id="be53ff33-4b15-47f8-91fd-bf026663906d" name="Entry" x="-520" y="-234" ZIndex="3" width="130" height="52" type="FunctionEntryNode" full_type="VaryingSocketNodeDefinition" Comment="" is_comment_pinned="false">
+      <inputs />
+      <outputs>
+        <socket role="Parameter 0" full_role="Parameter 0" id="be0efc0f-0ea6-4871-a5f4-da13894c8046" type="AnimationPoseSocket" name="BasePose" />
+      </outputs>
+    </node>
+    <node id="014e11d8-1801-4f51-b08d-d3775d768259" name="Result" x="520" y="-234" ZIndex="0" width="156" height="52" type="FunctionResultNode" full_type="VaryingSocketNodeDefinition" Comment="" is_comment_pinned="false">
+      <inputs>
+        <socket role="Parameter 0" full_role="Parameter 0" id="4f15e059-6707-4680-82dc-567c229c1822" type="AnimationPoseSocket" name="ActionLayered" />
+      </inputs>
+      <outputs />
+    </node>
+    <node id="f3d72e8b-0a2b-411c-b339-5dc4a779bd2f" name="Cached Pose 'ActionMachine'" x="-390" y="-156" ZIndex="15" width="247" height="52" type="UseCachedPoseNode" full_type="UseCachedPoseNode" Comment="" is_comment_pinned="false" cached_pose_id="eef5101f-cd38-4892-96fd-e095b617a735">
+      <inputs />
+      <outputs>
+        <socket role="Pose" full_role="Pose" id="4cd02fdf-89fd-440d-a171-cc695930c762" type="AnimationPoseSocket" name="" />
+      </outputs>
+    </node>
+    <node id="1161564f-79d6-47bb-9acb-44c14fa89335" name="GetVariableNode" x="-390" y="-91" ZIndex="9" width="195" height="52" type="GetVariableNode" full_type="VariableNodeDefinition" Comment="" is_comment_pinned="false" variable_id="482e9030-438e-4291-b44b-edf68c2e0a47">
+      <inputs />
+      <outputs>
+        <socket role="Result" full_role="Result" id="22baabd4-3ed0-4ad0-84d7-e4e77977853e" type="FloatSocket" name="ACT_RootBodyBlend" />
+      </outputs>
+    </node>
+    <node id="3be7d4ec-af8b-4bb3-880c-72590eba5ed1" name="Blend" x="-13" y="-234" ZIndex="17" width="143" height="104" type="BlendNode" full_type="BlendNode" Comment="" is_comment_pinned="false">
+      <inputs>
+        <socket role="A" full_role="A" id="6c51a0fa-d50b-4eb1-9adc-59112001b617" type="AnimationPoseSocket" name="" />
+        <socket role="B" full_role="B" id="68eaedc0-a69b-4975-a6ba-422afba6a514" type="AnimationPoseSocket" name="" />
+        <socket role="Alpha" full_role="Alpha" id="da0d3a76-fc26-493a-86b3-b262f633c0c3" type="FloatSocket" name="Alpha" default="0" />
+      </inputs>
+      <outputs>
+        <socket role="Pose" full_role="Pose" id="bed9cbc8-b145-4477-96c6-98521592b264" type="AnimationPoseSocket" name="" />
+      </outputs>
+    </node>
+  </nodes>
+  <links>
+    <link id="076d30d6-0762-4345-97d3-d32fefa8b6ae" type="GenomeLink" full_type="Genome.DataModel.CommonGraph.Links.GenomeLink, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" from_id="be0efc0f-0ea6-4871-a5f4-da13894c8046" to_id="6c51a0fa-d50b-4eb1-9adc-59112001b617" begin_point_x="-409" begin_point_y="-196" end_point_x="6" end_point_y="-196" />
+    <link id="9aedb8e7-8732-45ec-9dc3-c8ca121fd2d3" type="GenomeLink" full_type="Genome.DataModel.CommonGraph.Links.GenomeLink, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" from_id="4cd02fdf-89fd-440d-a171-cc695930c762" to_id="68eaedc0-a69b-4975-a6ba-422afba6a514" begin_point_x="-162" begin_point_y="-118" end_point_x="6" end_point_y="-170" />
+    <link id="de63a0c5-a54f-40aa-9416-617210f3637b" type="GenomeLink" full_type="Genome.DataModel.CommonGraph.Links.GenomeLink, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" from_id="bed9cbc8-b145-4477-96c6-98521592b264" to_id="4f15e059-6707-4680-82dc-567c229c1822" begin_point_x="111" begin_point_y="-196" end_point_x="539" end_point_y="-196" />
+    <link id="8f8db433-687b-49d2-b06d-947571c84255" type="GenomeLink" full_type="Genome.DataModel.CommonGraph.Links.GenomeLink, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" from_id="22baabd4-3ed0-4ad0-84d7-e4e77977853e" to_id="da0d3a76-fc26-493a-86b3-b262f633c0c3" begin_point_x="-214" begin_point_y="-53" end_point_x="6" end_point_y="-144" />
+  </links>
+  <properties>
+    <property id="42e4cbcf-314b-40a4-b907-fd9dd00b782a" name="InheritanceState" full_type="Genome.DataModel.Property.EnumerationProperties.InheritanceStateProperty, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" category="false" collapsed="false" selected="false" can_be_renamed="false" value="Overriden" />
+    <property id="db203143-476e-4e7f-aa58-29e4996f368a" name="Graph Type" full_type="Genome.DataModel.Property.FunctionGraphTypeProperty, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" category="false" collapsed="false" selected="false" can_be_renamed="false" value="AnimationGraph" />
+    <property id="70cbbb2c-4ab8-48c9-8d29-8e3bc273ac12" name="Input Sockets" full_type="Genome.DataModel.Property.Sockets.SocketCategoryProperty, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" category="true" collapsed="false" selected="false" can_be_renamed="false" extendable="true">
+      <properties>
+        <property id="d1617d5b-b8ef-4ccb-b1cd-f8516be649af" name="BasePose" full_type="Genome.DataModel.Property.Sockets.SocketTypeProperty, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" category="false" collapsed="false" selected="false" can_be_renamed="true" value="AnimationPoseSocket" />
+      </properties>
+    </property>
+    <property id="54be3b7e-aaf5-4c4c-85ac-5630aaf04262" name="Output Sockets" full_type="Genome.DataModel.Property.Sockets.SocketCategoryProperty, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" category="true" collapsed="false" selected="false" can_be_renamed="false" extendable="true">
+      <properties>
+        <property id="6ca591ae-a8e7-4762-94e1-78480d94612e" name="ActionLayered" full_type="Genome.DataModel.Property.Sockets.SocketTypeProperty, Genome.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" category="false" collapsed="false" selected="false" can_be_renamed="true" value="AnimationPoseSocket" />
+      </properties>
+    </property>
+  </properties>
+</graph>

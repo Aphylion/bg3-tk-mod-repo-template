@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h05df783fg2a5agac40g5372gee86b5321988" version="2">Curse Shape: Lycanthrope</content>
+  <content contentuid="h463f1715g4255g78daga2d4g6a23a850e4c7" version="3">Curse Form</content>
+  <content contentuid="hbaf4835cg4a50g0674gf1aegd7070abf1580" version="1">Magically assume the shape of a beast. </content>
+  <content contentuid="h540f1469g6870gab3fgeaeag796434e6a400" version="1">While in animal shape, you can't talk or cast spells. You take on the attributes of your beast form - excluding your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; scores. &lt;br&gt;&lt;br&gt;When your beast form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form. </content>
+  <content contentuid="heaf88f03g2b3cg117egdef1gef572870c453" version="3">Curse Form: Lycanthrope</content>
+  <content contentuid="haccb6a95g7cebg655cg4edbgcf37efd36a09" version="3">Assume the cursed shape of a Werewolf </content>
+  <content contentuid="h7b586bdbg4675g4556g152fg650d433b42d7" version="1">Take on your lycan form</content>
+  <content contentuid="hadc7f35agf4c5g9818g09b6gd0988fd189bc" version="29">Blood Devil Form</content>
+  <content contentuid="hfce02a31g4aedgfda4g015dge80670726bed" version="1">Whether Cursed with affliction as punishment or to become a weapon, the Cursebearer channels the Hex of their bloodline for many causes.</content>
+  <content contentuid="h39f0b0c6gfed4g2d08g1d00g7fbee80dddb1" version="1">Curse Shape</content>
+  <content contentuid="hf615df94ga920g689bg9c65g80280b2b8057" version="1">Use to transform</content>
+  <content contentuid="h48864943g5a54g5fd9g4683gbea7ae185cc3" version="2">Your Blood Yearns for a Rest</content>
+  <content contentuid="h07426961g52c9g4df9g558ag524388fa2580" version="1">Blood Boon</content>
+  <content contentuid="h3c8c9841ge0c8gb586gce7eg6773c596d7d5" version="1">Your primary resource in combat.</content>
+  <content contentuid="h3910b7a3g528bgeeeegd174ga40fa8a5e6e8" version="1">Out of Boons!</content>
+  <content contentuid="h8faec241gc0ceg6e50g47d2ga62f68a92ae7" version="1">Cursebearer</content>
+  <content contentuid="h45be10d1g2380gad9dg2418g6cd4521f2893" version="2">Dismiss Curse Form</content>
+  <content contentuid="hb2c4ef63gda02g2ef3g1d07g3fbe6deef3bc" version="2">Dismiss Your Curse Form</content>
+  <content contentuid="h4ac16c1cgad76g69b0g5519g54a21eae7a30" version="1">Curse of the Lycan</content>
+  <content contentuid="h60d91552g1c4dg404cgf7f3g23be31cb6681" version="1">Lycan</content>
+  <content contentuid="hfa6c6df9ge642g5a87gd4c4g511fc5b5ae89" version="2">The Hunt calls to you.</content>
+  <content contentuid="he1cf6fc5g835fg052dg07fcge9ef72790529" version="1">Curse of the Soulstricken</content>
+  <content contentuid="hf3daeabcg60bfgd70fg5787g761c3faee424" version="1">Soulstricken</content>
+  <content contentuid="h894c3a90g788dg0148g2fa5g9f80626161b9" version="1">You hunger for their essence.</content>
+  <content contentuid="he710a5f0g7322g1e44g8379gc592dc0a68c9" version="2">Lycan Form</content>
+  <content contentuid="hfa1e7714gba73ga55cg5f30g305a02dec7c2" version="1">%%% EMPTY</content>
+  <content contentuid="h66965526g1904gddd3gd198gce9ca88791fd" version="2">Dismiss Curse Form</content>
+  <content contentuid="h4bb8623dgdda0gb4bcgfb20g67b59ef35356" version="2">Dismiss Your Curse Form</content>
+  <content contentuid="ha5357494gf861gc187ge778g3ddabc2c5091" version="1">While in animal shape, you can't talk or cast spells. You take on the attributes of your beast form - excluding your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; scores. &lt;br&gt;&lt;br&gt;When your beast form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form. </content>
+  <content contentuid="h9b356158g4431g04eeg6c80gc57535ea8c94" version="2">Curse Form</content>
+  <content contentuid="hc60463ffga97fg882egfaa2g990278dfbeea" version="2">Magically Assume the Shape of a spectre.</content>
+  <content contentuid="hcef29a2bg8c11g28fcg40d7g7829acb6304f" version="2">Curse Form: Spectre</content>
+  <content contentuid="hd86238dag5605g427eg4fefga802d0550dd6" version="2">Assume the cursed shape of a Spectre</content>
+  <content contentuid="ha4143951g0a55g7e77g94d4gd4b6946722d2" version="1">Spectre Form</content>
+  <content contentuid="h51215700g0955g5f2age05egd203fc1f7da8" version="14">Spectre Form</content>
+  <content contentuid="hd4e771e7g50b1g7ba0g4028g7d948c4ab138" version="1">While in animal shape, you can't talk or cast spells. You take on the attributes of your beast form - excluding your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; scores. &lt;br&gt;&lt;br&gt;When your beast form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form. </content>
+  <content contentuid="h38909049gb83egccf2gb993g4f39663ca611" version="1">Magically assume the shape of a spectre.</content>
+  <content contentuid="h8e04f936gfd31g4267g2478gaf78e3aaeb1d" version="1">Curse Form</content>
+  <content contentuid="hb4e984beg9eafg21f1ga79eg8719568cdaa7" version="4">Spectre Form</content>
+  <content contentuid="h5b563106gb189g0134g5716g0d61ff0d7b50" version="1">Primal Hunger</content>
+  <content contentuid="h2d931de6gdf96g256agc29bg61c161f75f6b" version="1">Gain temp HP on kill, melee weapon attacks deal extra bleed once per turn.</content>
+  <content contentuid="h7108f585gfd61g25feg85d5gfbf0b78b9e41" version="1">Lycan Frenzy</content>
+  <content contentuid="h6ed6e5a9g8bc0g4400g8d61g733adabef84b" version="1">Your bloodthirst transforms your rage, making it stronger.</content>
+  <content contentuid="h4257b1aega7ceg00f3ge2f9g63737e4ac849" version="1">Lycan Frenzy</content>
+  <content contentuid="h5409cde1g389cg8332g90e2gcab135bb5dfa" version="1">Your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; turns into a frenzy! You gain &lt;LSTag Type="Spell" Tooltip="Target_FrenziedStrike"&gt;Frenzied Strike&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Throw_FrenziedThrow"&gt;Enraged Throw&lt;/LSTag&gt;. You can also make an &lt;LSTag Type="Spell" Tooltip="Throw_ImprovisedWeaponBerserker"&gt;Improvised Weapon Attack&lt;/LSTag&gt; as a bonus action.</content>
+  <content contentuid="hf2aeff4ag3c9dg7f91g66bdga75866c34bbc" version="1">Bite</content>
+  <content contentuid="h5293607fg3ffagb7a8g75f8gfb961ba68c78" version="1">Bite a target.</content>
+  <content contentuid="h365dd61bg2a0fg3939g30d1g3bb770caf438" version="1">Hematic Touch</content>
+  <content contentuid="h3d13c751g2234g7a96g3a43g2bd811c22127" version="1">Undead cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;If Living, has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h98382a71g0012ga0begfccagd68c8002b190" version="1">Toad Touch</content>
+  <content contentuid="hbc49cba1g51d9ge7ebgd011g6570a9fffe96" version="1">Disarming Attack (Melee)</content>
+  <content contentuid="h7893fb04g6e40ge98eg6697g5648fe41e3c3" version="1">Focus your attack on your foe's hands and possibly force them to drop the weapons they are holding.</content>
+  <content contentuid="hde88a9fbgc3e5g3fb4gc250g18ae603bd395" version="2">Hematic Touch</content>
+  <content contentuid="heb305966g9538g0ec1g6169g79eb7e0b03f4" version="1">Prevent the target from healing until your next turn. An undead target receives &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="hc15bb602g1067g82ffg9c65g273a5b1fa6cf" version="1">Accursed Strike of The Old Blood</content>
+  <content contentuid="h970f9fe3ge603g67b7g67c9g5c4a0a8b4947" version="1">Slash at a target with your Accursed weapon.</content>
+  <content contentuid="h244a552bg6388g4f63g15dcga1b48122e17a" version="1">Accursed Strike of The Reaped Soul</content>
+  <content contentuid="hb241d3f9g0dd4g850age912g78410b71f806" version="1">Slash at a target with your Accursed weapon.</content>
+  <content contentuid="h200df023g7289g28ddg605fg7e112b953968" version="1">Accursed Strike of The Hag's Curse</content>
+  <content contentuid="h3a7df8a8g4566g4879ga6c5gac84054aa857" version="2">Slash at a target with your Accursed weapon, dealing [1]. </content>
+  <content contentuid="h2e6879f6gb4d6gbb27g2f78g28236b7e5ee8" version="1">Curse of the Lycan</content>
+  <content contentuid="h61cb52f4gdaefg569dg0010g7e8fb6fba996" version="1">The Hunt is in your blood.</content>
+  <content contentuid="hfdb5c87ag2766g0185gd186geae9553ad6d1" version="1">Living Target cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;If Living, has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h3737b8bfg2a7fgdeeeg6156g4a53e9031f2e" version="1">Wart Fingers</content>
+  <content contentuid="hd0927e14g4436g3e81g3d50g9c2620186f24" version="1">Prevent the target from healing until your next turn. A living target receives &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="ha618cb35g01bcg33c9g15c7g56df5daff333" version="2">Lycanthrope Form</content>
+  <content contentuid="he7b3c27cgb630gd2ecgfae4g1b2cf30f07cd" version="1">Bloodflame Reaper Form</content>
+  <content contentuid="hf4af49d7gb34fgb95fg79e6g7966414edb22" version="1">Toad Form</content>
+  <content contentuid="hd50afb3egce4eg76efg4593g478db21f1e90" version="31">Toad Form</content>
+  <content contentuid="h8f9226a2gaba2ga46agaa36gd5bee6f2cb70" version="6">Toad Form</content>
+  <content contentuid="hf8028744gc711g2591g4a64g0898ce1122c5" version="1">Dismiss Curse Form</content>
+  <content contentuid="h2327f2d3g4e2fgd2efgc071g5232ea4ea2b3" version="1">Curse Form</content>
+  <content contentuid="h01dc07d3gb467g8ef7ge5adgf0341acd3224" version="1">Magically Assume the Shape of a spectre.</content>
+  <content contentuid="hc4d75ebdgaa05g57f3g10b0gd1bc7acf5f4a" version="1">While in animal shape, you can't talk or cast spells. You take on the attributes of your beast form - excluding your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; scores. &lt;br&gt;&lt;br&gt;When your beast form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form. </content>
+  <content contentuid="ha202f878gcae2g06acgcfceg5e90be0ef441" version="2">Curse Form: Toad</content>
+  <content contentuid="heae5c890ga489gb0cbg0d3fg13b93377cf69" version="1">Dismiss Your Curse Form</content>
+  <content contentuid="h618fd6d0ga689gd49fg14d0gc388efa2f6c1" version="1">Curse Form: Spectre</content>
+  <content contentuid="hb570673bg9b4bg3a04ge85fgc38fcbe64f06" version="1">Assume the cursed shape of a Spectre</content>
+  <content contentuid="h6488bc68g0cf5g6089ga04eg59a6589f4226" version="2">Toad Form</content>
+  <content contentuid="h8b3bdf7ag1c33g4b12g86fbg5a343b5e1f5a" version="1">Curse of the Toad</content>
+  <content contentuid="h15dc20f8g7705gd865g6b54gf826fd172afd" version="1">Toad</content>
+  <content contentuid="h1f0558a4gba6ag29edg397cg60ea4ff1d09a" version="1">All glory to the Toad. </content>
+  <content contentuid="hdc144c61g22e6g908fge289g075f1f5a7730" version="1">Curse of the Bloodflame</content>
+  <content contentuid="h32ca984dg97ddgd802g096bg65783257e8f3" version="1">Bloodflame</content>
+  <content contentuid="ha2b56fabga4b5gf11agfc37gce27dbefb5bd" version="1">Bring them unto the Hells.</content>
+  <content contentuid="h47c95bf4g8fdag21c0g0d6ag23da444520ac" version="1">Poison Arrow</content>
+  <content contentuid="hd49dfb8fg662dg1851gf025gb76a4dcb11f5" version="1">The arrow deals poison damage.</content>
+  <content contentuid="h3324bf42g2116gdcd7g49feg1fb6e5378f2b" version="1">Curse Form</content>
+  <content contentuid="hda6ff60bg400bgd4c3g84b1g69b73f4c0e09" version="1">Magically Assume the Shape of a spectre.</content>
+  <content contentuid="h0119ceddg05d0gf9a2ge67dge2b4b986d90a" version="1">While in animal shape, you can't talk or cast spells. You take on the attributes of your beast form - excluding your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; scores. &lt;br&gt;&lt;br&gt;When your beast form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form. </content>
+  <content contentuid="h952fd6efg84acg2dcfgd6b2g30f30abc4a17" version="1">Dismiss Curse Form</content>
+  <content contentuid="hb39449d8g1a35gf4cbg0f14g5fcd108abe2c" version="1">Curse Form: Toad</content>
+  <content contentuid="h89d465a9g92edg2024g2df5g580443538dbd" version="1">Dismiss Your Curse Form</content>
+  <content contentuid="h7a4eac1bg0034gfec0g1877ga8836acb8df9" version="1">Curse Form: Spectre</content>
+  <content contentuid="h702580f3g141dg7934g16e2gf5966aa39ec8" version="1">Assume the cursed shape of a Spectre</content>
+  <content contentuid="hd9c42277g8770g899dg93dfgf395e41fb214" version="1">Curse Empowerment Damage Bonus</content>
+  <content contentuid="he3af12a7gd71dgfe5fg9139g6624cf464576" version="2">Grants +1 damage to attacks against cursed targets</content>
+  <content contentuid="hd5716e9cg6296gecffgba88g523e6ab87f82" version="1">Soul Grasp</content>
+  <content contentuid="he09dda0dg7479gb6f9g6ce9g735594106c23" version="1">Living Target cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;If Living, has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h9c14f71egdd41gbf66g8552g6cb51281f178" version="2">Curse Empowerment</content>
+  <content contentuid="h793d3b81g19a6g7d29g2ef4g216b12a19ed0" version="1">Temporarily empowers your strikes against cursed enemies.</content>
+  <content contentuid="h44ccc996g84fdg985bg4b88g6a90c094e912" version="1">Curse Empowerment</content>
+  <content contentuid="h30271e50g87edg7c76g8ea9g00218c6fd419" version="1">Your Curse deepens and extends to your foes, targets afflicted by Bleeding, Poisoned, Hexed and Burning effects are dealt an additional +1 Damage</content>
+  <content contentuid="hc902e402g4051g0606g54b3g5a3629d52a37" version="1">Primal Hunger</content>
+  <content contentuid="hfbdeb517g20e4gced1ge539gb72e30c74d7e" version="1">HealSelf</content>
+  <content contentuid="habbe9230geb8cg9f29ge3b0g75f2d57dc6ff" version="1">Cursebearer</content>
+  <content contentuid="h9eebdd26gbef6g680dg4ea2g12fa0386833c" version="1">Cursebearer</content>
+  <content contentuid="h0051d3b6gc211g71c0g1cc7g9231f2ef5459" version="1">Curse of the Stricken</content>
+  <content contentuid="hee761738g2bd8g8628g6a4agd7d20a3a6483" version="1">Curse of the Toad</content>
+  <content contentuid="h1e1c2f11ga9bag146bg22a7gc5ed894f8c87" version="1">Curse of the Bloodflame</content>
+  <content contentuid="hb4e42228g7e33g37c1g065ega677e1248f68" version="1">%%% EMPTY</content>
+  <content contentuid="h6f134975gac4dg948ag2648gf733fa09e42b" version="1">Curse Empowerment</content>
+  <content contentuid="hc382de96g1315g0e54g8762g2ebd06f87f3c" version="1">Your Curse deepens and extends to your foes, targets afflicted by Bleeding, Poisoned, Hexed and Burning effects are dealt an additional +1 Damage</content>
+  <content contentuid="h60fae2d9gb4b8gf5c4gcaabgab42e7590c5c" version="1">Master of the House</content>
+  <content contentuid="h579ff4dcg8748gc4a3gc7bdg2580df211232" version="1">Slash at a target with your Accursed weapon, dealing [1]. </content>
+  <content contentuid="he79e725agb9eegbe95g9a7eg4c17bc1dba79" version="1">DealDamage(1d8, Bludgeoning)</content>
+  <content contentuid="hd0e6e029g2e48g7498gb889gd4edea98c785" version="1">Slash at a target with your Accursed weapon, dealing [1]. </content>
+  <content contentuid="hd297c7b6gbeedg8e79gc441ga36ce584a9ce" version="1">DealDamage(1d8, Necrotic)</content>
+  <content contentuid="hb90df1cagae6ag9d67g9f60g337aa275ce38" version="1">DealDamage(1d8, Poison)</content>
+  <content contentuid="h53f7be52gcee2g43e9g46e0ga607892e3c86" version="1">Accursed Strike of Mephistoles' Weapon</content>
+  <content contentuid="hd0b56432g34bdg8ea0g072cg84f8c6faccd7" version="1">Slash at a target with your Accursed weapon, dealing [1]. </content>
+  <content contentuid="h312b7dbag389ag8872g8474g5031f64ed1d1" version="1">Bloodflame Blister</content>
+  <content contentuid="h82b3e718g1815gb48eg96a2g5780d0e5c004" version="1">Prevent the target from healing until your next turn. An undead target receives &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h07fcfd65gdeeag918bgae8cg0c416f95451d" version="1">Combat Curse Form</content>
+  <content contentuid="h0ed22d31ga1afg304fgc208g9b6c31fa5899" version="1">As a bonus action, you can assume the form of an accursed beast. You can transform twice per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h70f98593gda62gccc7g3982g77a61058a9ef" version="1">Curse Form</content>
+  <content contentuid="hc37053e7gfa94g4450gf074g66feb06e8cbd" version="1">As an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt;, you can assume the form of an Accursed beast. You can transform twice per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hed0b21bcg8b42gb243g348cg76b2523f2c78" version="3">BloodBoon: [2]</content>
+  <content contentuid="h0ac3f9e2gf09fg8cf0g7f28gd55a7e5470e9" version="1">Your ancestral Curse bolsters your attacks with Bloodboons. You regain expended Bloodboons after a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hca6e5af2gb892g24c2g8b7bg580ab0399878" version="1">Level [4] &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; Unlocked</content>
+  <content contentuid="h9f5d7e68g4d60g75bcg9292g49f9aa7f7484" version="1">You gain [3] level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h6c529e50g4f12g418dgda64geed0c0215f9c" version="1">Level [4] &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; Unlocked</content>
+  <content contentuid="h2d91c555g2773g21c3geca2gb7e9f22e3daa" version="1">You gain [3] level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h446f28c2g7019g9d2bgc7a8g9e2e3811420f" version="1">Level [4] &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slots&lt;/LSTag&gt; Unlocked</content>
+  <content contentuid="h9d9f70bag5b45g21f8g5581g2238fab94995" version="1">You gain [3] level [4] spell slot(s), which are restored on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h5e272d2dg954fg1f7agb8a0g1db635e121bb" version="1">BloodBoon: [1]</content>
+  <content contentuid="h68d18817g9f1cg4fc8g4a02g90144b475ab6" version="1">Your ancestral Curse bolsters your attacks with Bloodboons. You regain expended Bloodboons after a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h4d8d9d60g0526gb3c5gcea4g6c68b7b73c2a" version="1">Devour their essence.</content>
+  <content contentuid="hbae41c78g45f4gac0bg6f02g7f9c7b9fbfdf" version="1">ribbit. </content>
+  <content contentuid="h872896cage431g5241gd549g43e655d8df13" version="1">Inherit the weapon</content>
+</contentList>
